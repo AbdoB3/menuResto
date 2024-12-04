@@ -18,9 +18,9 @@ export default function Menu() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-4 text-center">
         <div className="lg:flex lg:justify-around ">
-          <p className="text-lg font-semibold sm:mb-4 sm:mt-2">Platinium pool          </p>
+          <p className="text-lg font-semibold sm:mb-4 ">Platinium pool          </p>
           <p className="sm:mb-4">4 Rue Aknoul, Casablanca 20050</p>
-          <p className="sm:mb-4">
+          <p className="sm:mb-1">
             <a href="tel:+212679093177 " > Phone: +212679093177</a>
             </p>
         </div>
